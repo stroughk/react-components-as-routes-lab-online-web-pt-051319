@@ -5,7 +5,7 @@ const Directors = () => {
     <h1>Directors Page</h1>
     <div>
       <h1 />
-      
+
 
       {directors.map((director, index) => (
           <div key={index}>
